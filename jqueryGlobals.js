@@ -198,7 +198,7 @@ var fiTFF = setInterval(function() {
 
     if (typeof getTimeZone() != 'undefined') {
         $.ajax({
-            url: 'https://apiv3.apifootball.com/?',
+            url: 'https://apiv3.apifootball.com/?action=get_countries&APIkey=08f8430bff7ebc7e367a1303bbb7c135578187cb0f67aaad066256bc8245110b',
             cache: false,
             data: {
                 action: 'get_data',

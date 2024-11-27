@@ -2546,7 +2546,7 @@
         // Action for this widget
         action: 'get_events',
         // Link to server data
-        matchResultsDetailsAjaxURL: 'https://apiv3.apifootball.com/?',
+        matchResultsDetailsAjaxURL: 'https://apiv3.apifootball.com/?action=get_countries&APIkey=08f8430bff7ebc7e367a1303bbb7c135578187cb0f67aaad066256bc8245110b',
         // Background color for your Leagues Widget
         backgroundColor: null,
         // Width for your widget

@@ -569,7 +569,7 @@
         // Widgetkey will be set in jqueryGlobals.js and can be obtained from your account
         Widgetkey: Widgetkey,
         // Link to server data
-        leagueDetailsAjaxURL: 'https://apiv3.apifootball.com/?',
+        leagueDetailsAjaxURL: 'https://apiv3.apifootball.com/?action=get_countries&APIkey=08f8430bff7ebc7e367a1303bbb7c135578187cb0f67aaad066256bc8245110b',
         // Get Leagues information, name and image (reuqested automaticaly from server when you click on a league from country list)
         league_id: null,
         league_name: null,
